@@ -1,3 +1,5 @@
 print("Dhani")
 print("Mahasiswa")
 print("Informatika")
+print("ITENAS")
+print("Sumedang")
